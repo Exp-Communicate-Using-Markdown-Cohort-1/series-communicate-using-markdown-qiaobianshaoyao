@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] header
 - [ ] code
 - [ ] image
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
